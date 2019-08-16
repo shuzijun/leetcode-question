@@ -1,5 +1,5 @@
 # leetcode-question
-  [leetcode-editor](https://github.com/shuzijun/leetcode-question) custom code demo    
+  [leetcode-editor](https://github.com/shuzijun/leetcode-editor) custom code demo    
 ## leetcode-editor config  
   CodeFileName:
   ```java
