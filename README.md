@@ -5,7 +5,7 @@
   ```java
   $!velocityTool.camelCaseName(${question.titleSlug})
   ```
-  TemplateConstant:
+  CodeTemplate:
   ```java
     ${question.content}
     
