@@ -17,3 +17,12 @@
         ${question.code}
     }
   ```
+  TemplateConstant:
+  ```
+    ${question.title}	question title	ex:Two Sum
+    ${question.titleSlug}	question title slug 	ex:two-sum
+    ${question.frontendQuestionId}	question serial number
+    ${question.content}	question content
+    ${question.code}	question code
+    $!velocityTool.camelCaseName(str)	transform str camel case
+  ```
