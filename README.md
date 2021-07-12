@@ -1,5 +1,6 @@
 # leetcode-question
-  [leetcode-editor](https://github.com/shuzijun/leetcode-editor) custom code demo    
+  [leetcode-editor](https://github.com/shuzijun/leetcode-editor) custom code demo     
+  This branch is a private record branch. For configuration examples, please refer to master.    
 ## leetcode-editor config  
   CodeFileName:
   ```java
