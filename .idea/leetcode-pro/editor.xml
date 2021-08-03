@@ -30,12 +30,48 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q29DivideTwoIntegers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q29DivideTwoIntegers.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q29DivideTwoIntegers.java" />
+              <option name="questionId" value="29" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q2AddTwoNumbers.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q2AddTwoNumbers.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q2AddTwoNumbers.java" />
               <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q30SubstringWithConcatenationOfAllWords.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q30SubstringWithConcatenationOfAllWords.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q30SubstringWithConcatenationOfAllWords.java" />
+              <option name="questionId" value="30" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q31NextPermutation.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q31NextPermutation.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q31NextPermutation.java" />
+              <option name="questionId" value="31" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q32LongestValidParentheses.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q32LongestValidParentheses.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q32LongestValidParentheses.java" />
+              <option name="questionId" value="32" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -63,6 +99,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q35SearchInsertPosition.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q35SearchInsertPosition.java" />
               <option name="questionId" value="35" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q36ValidSudoku.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q36ValidSudoku.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q36ValidSudoku.java" />
+              <option name="questionId" value="36" />
             </LeetcodeEditor>
           </value>
         </entry>
