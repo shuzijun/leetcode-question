@@ -1,7 +1,8 @@
 # leetcode-question
   [leetcode-editor](https://github.com/shuzijun/leetcode-editor) custom code demo    
 ## Progress
-<!--START_SECTION_FLAG--><!--END_SECTION_FLAG-->
+<!--START_SECTION_FLAG-->
+![Progress](https://img.shields.io/static/v1?logo=leetcode&label=Progress&message=47%2F2647&color=brightgreen)  ![Easy](https://img.shields.io/static/v1?logo=leetcode&label=Easy&message=58&color=5CB85C)  ![Medium](https://img.shields.io/static/v1?logo=leetcode&label=Medium&message=106&color=F0AD4E)  ![Hard](https://img.shields.io/static/v1?logo=leetcode&label=Hard&message=12&color=D9534F)  <!--END_SECTION_FLAG-->
 ## leetcode-editor config  
   CodeFileName:
   ```java
