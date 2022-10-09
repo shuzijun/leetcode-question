@@ -3,129 +3,51 @@
   <component name="LeetcodeEditorPro">
     <option name="a">
       <map>
-        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q10RegularExpressionMatching.java">
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1TwoSum_test.go">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q10RegularExpressionMatching.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q10RegularExpressionMatching.java" />
-              <option name="questionId" value="10" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[1]两数之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="langSlug" value="golang" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1TwoSum_test.go" />
+              <option name="titleSlug" value="two-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q153FindMinimumInRotatedSortedArray.java">
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q2AddTwoNumbers_test.go">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q153FindMinimumInRotatedSortedArray.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q153FindMinimumInRotatedSortedArray.java" />
-              <option name="questionId" value="153" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[2]两数相加.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2" />
+              <option name="host" value="leetcode.cn" />
+              <option name="langSlug" value="golang" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q2AddTwoNumbers_test.go" />
+              <option name="titleSlug" value="add-two-numbers" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q1TwoSum.java">
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q856ScoreOfParentheses_test.go">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q1TwoSum.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q1TwoSum.java" />
-              <option name="questionId" value="1" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[856]括号的分数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn856" />
+              <option name="host" value="leetcode.cn" />
+              <option name="langSlug" value="golang" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q856ScoreOfParentheses_test.go" />
+              <option name="titleSlug" value="score-of-parentheses" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q29DivideTwoIntegers.java">
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q870AdvantageShuffle_test.go">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q29DivideTwoIntegers.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q29DivideTwoIntegers.java" />
-              <option name="questionId" value="29" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q2AddTwoNumbers.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q2AddTwoNumbers.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q2AddTwoNumbers.java" />
-              <option name="questionId" value="2" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q30SubstringWithConcatenationOfAllWords.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q30SubstringWithConcatenationOfAllWords.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q30SubstringWithConcatenationOfAllWords.java" />
-              <option name="questionId" value="30" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q31NextPermutation.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q31NextPermutation.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q31NextPermutation.java" />
-              <option name="questionId" value="31" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q32LongestValidParentheses.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q32LongestValidParentheses.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q32LongestValidParentheses.java" />
-              <option name="questionId" value="32" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q33SearchInRotatedSortedArray.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q33SearchInRotatedSortedArray.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q33SearchInRotatedSortedArray.java" />
-              <option name="questionId" value="33" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q34FindFirstAndLastPositionOfElementInSortedArray.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q34FindFirstAndLastPositionOfElementInSortedArray.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q34FindFirstAndLastPositionOfElementInSortedArray.java" />
-              <option name="questionId" value="34" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q35SearchInsertPosition.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q35SearchInsertPosition.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q35SearchInsertPosition.java" />
-              <option name="questionId" value="35" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q36ValidSudoku.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q36ValidSudoku.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q36ValidSudoku.java" />
-              <option name="questionId" value="36" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q69Sqrtx.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q69Sqrtx.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q69Sqrtx.java" />
-              <option name="questionId" value="69" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q74SearchA2dMatrix.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/doc/content/Q74SearchA2dMatrix.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/com/shuzijun/leetcode/editor/cn/Q74SearchA2dMatrix.java" />
-              <option name="questionId" value="74" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[870]优势洗牌.md" />
+              <option name="frontendQuestionId" value="leetcode.cn870" />
+              <option name="host" value="leetcode.cn" />
+              <option name="langSlug" value="golang" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q870AdvantageShuffle_test.go" />
+              <option name="titleSlug" value="advantage-shuffle" />
             </LeetcodeEditor>
           </value>
         </entry>
