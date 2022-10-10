@@ -5,7 +5,7 @@
 ## Progress
 
 <!--START_SECTION_FLAG-->
-![Progress](https://img.shields.io/static/v1?logo=leetcode&label=Progress&message=50%2F2812&color=brightgreen)  ![Easy](https://img.shields.io/static/v1?logo=leetcode&label=Easy&message=16&color=5CB85C)  ![Medium](https://img.shields.io/static/v1?logo=leetcode&label=Medium&message=30&color=F0AD4E)  ![Hard](https://img.shields.io/static/v1?logo=leetcode&label=Hard&message=4&color=D9534F)  <!--END_SECTION_FLAG-->
+![Progress](https://img.shields.io/static/v1?logo=leetcode&label=Progress&message=51%2F2812&color=brightgreen)  ![Easy](https://img.shields.io/static/v1?logo=leetcode&label=Easy&message=16&color=5CB85C)  ![Medium](https://img.shields.io/static/v1?logo=leetcode&label=Medium&message=30&color=F0AD4E)  ![Hard](https://img.shields.io/static/v1?logo=leetcode&label=Hard&message=5&color=D9534F)  <!--END_SECTION_FLAG-->
 
 ## leetcode-editor config
 
