@@ -27,6 +27,18 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q801MinimumSwapsToMakeSequencesIncreasing_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[801]使序列递增的最小交换次数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn801" />
+              <option name="host" value="leetcode.cn" />
+              <option name="langSlug" value="golang" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q801MinimumSwapsToMakeSequencesIncreasing_test.go" />
+              <option name="titleSlug" value="minimum-swaps-to-make-sequences-increasing" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q856ScoreOfParentheses_test.go">
           <value>
             <LeetcodeEditor>
