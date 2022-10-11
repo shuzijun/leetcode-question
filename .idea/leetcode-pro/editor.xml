@@ -3,6 +3,18 @@
   <component name="LeetcodeEditorPro">
     <option name="a">
       <map>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1790CheckIfOneStringSwapCanMakeStringsEqual_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[1790]仅执行一次字符串交换能否使两个字符串相等.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1790" />
+              <option name="host" value="leetcode.cn" />
+              <option name="langSlug" value="golang" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1790CheckIfOneStringSwapCanMakeStringsEqual_test.go" />
+              <option name="titleSlug" value="check-if-one-string-swap-can-make-strings-equal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1TwoSum_test.go">
           <value>
             <LeetcodeEditor>

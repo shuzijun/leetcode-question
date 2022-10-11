@@ -16,6 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+
       - uses: shuzijun/leetcode-editor-action@v0.1.1
         with:
           STATISTICS_DIRECTORY: .idea/leetcode-pro/
